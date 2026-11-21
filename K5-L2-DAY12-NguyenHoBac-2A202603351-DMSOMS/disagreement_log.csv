@@ -1,0 +1,5 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+S06_ir.png,infant_seat,seat,khác giá trị (IoU=1.00),rear_right,driver,mine,4.4-3; 4.8,"Giữ seat=rear_right của bản mình; OMS S06 thuộc hàng ghế sau, driver của peer không hợp lệ. Chưa xác nhận hình học bằng ảnh; không đổi nhãn theo peer."
+S06_rgb.png,infant_seat,seat,khác giá trị (IoU=1.00),rear_right,driver,mine,4.4-3; 4.8,"Giữ seat=rear_right của bản mình; OMS S06 thuộc hàng ghế sau, driver của peer không hợp lệ. Chưa xác nhận hình học bằng ảnh; không đổi nhãn theo peer."
+S08_ir.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.1; 4.8,"Giữ occupied=no của bản mình; guideline chỉ cho no/unknown, không có yes. Bản peer cần tự rà trên CVAT. Không sửa export cá nhân."
+S08_rgb.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.1; 4.8,"Giữ occupied=no của bản mình; guideline chỉ cho no/unknown, không có yes. Bản peer cần tự rà trên CVAT. Không sửa export cá nhân."

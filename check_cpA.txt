@@ -1,0 +1,5 @@
+File: part_A.zip · chỉ kiểm ảnh: S01, S02, S03, S04
+Ảnh: 8 · đã có frame_meta: 6 · số đối tượng: child_seat=6, face=2, infant_seat=6, object=6, person=6
+  [ERROR] S03_ir.png: cần đúng 1 tag frame_meta, đang có 0
+  [ERROR] S04_ir.png: cần đúng 1 tag frame_meta, đang có 0
+Kết quả: 2 lỗi, 0 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
